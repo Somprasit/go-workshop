@@ -1,0 +1,7 @@
+POST http://localhost:8080/mul
+Content-Type: application/json
+
+{
+    "x":6,
+    "y":5
+}
